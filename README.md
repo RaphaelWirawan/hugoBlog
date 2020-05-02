@@ -1,2 +1,2 @@
-# scaling-octo-chainsaw
+# hugoBlog
 Personal blog for my website 
